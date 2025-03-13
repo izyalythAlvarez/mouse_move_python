@@ -1,19 +1,19 @@
-# Mouse
+# Mouse 🖱️
 # Mouse Move 
 >># Movimiento Automático del Mouse
 Este es un programa simple en Python que mueve el mouse automáticamente cada cierto intervalo de tiempo para evitar que la computadora entre en modo de suspensión o para mantenerla activa. Es útil en situaciones donde necesitas que tu computadora permanezca despierta, como durante presentaciones, descargas largas, mantener activo un estado en Microsoft Teams o cualquier tarea que requiera que la pantalla no se bloquee.
 
-> ## Requisitos
+> ## 🤓 Requisitos 
 #### Instalaciones:
 * Python 3.x instalado.
 
-* Librerías 
-* pyautogui
+* Librerías.
+* pyautogui.
 * time instaladas.
 ----
 
 
-> ## Instalación
+> ## 🕹️ Instalación 
 > 
 #### Pasos a seguir:
 1. Clona este repositorio o descarga el archivo `.py`.
@@ -25,7 +25,7 @@ Este es un programa simple en Python que mueve el mouse automáticamente cada ci
 ----
 
 
-> ## Uso:
+> ## 🖥️ Uso:
 #### Pasos a seguir:
 1. Ejecuta el script en tu terminal, ejecuta en python
 ```sh bash
@@ -40,7 +40,7 @@ Este es un programa simple en Python que mueve el mouse automáticamente cada ci
 ----
 
 
-> ##  Configuración
+> ## 🔧 Configuración
 
 * **Intervalo de movimiento:** Puedes cambiar el intervalo de tiempo entre movimientos modificando la variable intervalo en el código. El valor está en segundos.
 ```bash
@@ -55,7 +55,7 @@ Este es un programa simple en Python que mueve el mouse automáticamente cada ci
 
 
 
-> ##  Manejo de Errores
+> ##  ❌ Manejo de Errores
 
 
 El programa incluye un manejo básico de errores. Si ocurre algún error durante la ejecución, el programa imprimirá un mensaje de error y volverá a intentar el movimiento después de 5 segundos.
@@ -68,6 +68,6 @@ El programa incluye un manejo básico de errores. Si ocurre algún error durante
 ----
 
 
-> ##  Contribuciones
+> ##  🌐 Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar un pull request con tus mejoras.
 
